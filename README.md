@@ -18,9 +18,8 @@
 <li>김근배 JIRA - 회원가입 ,로그인 , 마이페이지 조회/수정/삭제 , 포인트 내역 조회/상점/기능</li>
 <li>황기준 GIT - 소켓을 통한 Chatting 기능 , 각각의 방과 채팅 참여자 실시간 출력</li>
 <h1>5. 사용 언어</h1></br>
-<img src="">
+<img src="https://github.com/minj2306/tryCatchProject/assets/135796939/6273dc4e-f0c4-4f4e-addf-f13307347442">
 <h1>6. EER 다이어그램</h1></br>
-<img src="">
+<img src="https://github.com/minj2306/tryCatchProject/assets/135796939/1e5fb743-b547-4767-9426-4181018e904b">
 <h1>7. 클래스 다이어그램</h1></br>
-<img src="">
-</br>
+<img src="https://github.com/minj2306/tryCatchProject/assets/135796939/b657d9a7-e239-4f36-9d44-d8e744ebdd70">
